@@ -1,9 +1,9 @@
 # zomato-pune-analysis
 Analysis of restaurants in Pune as per the data on the Zomato Pune website.
-<br>
+<p>
 This repo contains all the analysis I have done on the dataset given by the PISB DataWiz Team for the second task of DataWiz 2k21.
 For this task, we had to implement at least 5 unique types of data visualisations, based on whatever correlations we felt are apt.
-<br>
+</p>
 General Procedure to follow:
 1) Perform data preparation & cleaning
   - Handle missing, incorrect and invalid data (if any)
@@ -16,9 +16,9 @@ General Procedure to follow:
   - Make a note of interesting insights from the exploratory analysis
 
 3) Ask & answer questions about the data
-- Ask at least 5 interesting questions about your dataset
-- Answer the questions either by computing the results using Numpy/Pandas or by plotting graphs using Matplotlib/Seaborn
+  - Ask at least 5 interesting questions about your dataset
+  - Answer the questions either by computing the results using Numpy/Pandas or by plotting graphs using Matplotlib/Seaborn
 
 4) Summarize your inferences & write a conclusion
-- Write a summary of what you've learned from the analysis
-- Include interesting insights and graphs from previous sections
+  - Write a summary of what you've learned from the analysis
+  - Include interesting insights and graphs from previous sections
